@@ -1,6 +1,6 @@
-# vue-universal
+# vue-universal-nuxt
 
-> A server side rendered vue.js application
+> A server side rendered vue.js application using nuxt.js
 
 ## Build Setup
 

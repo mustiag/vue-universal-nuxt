@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Header/>
+    <navbar/>
     <section>
       <div class="jumbotron">
         <div class="">
@@ -44,11 +44,11 @@
 </template>
 
 <script>
-import Header from '~components/Header.vue'
+import navbar from '~components/Navbar.vue'
 
 export default {
   components: {
-    Header
+    navbar
   }
 }
 </script>

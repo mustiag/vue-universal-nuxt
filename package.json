@@ -5,7 +5,8 @@
   "author": "Mustapha Garba <mustaphagahmed@gmail.com>",
   "private": true,
   "dependencies": {
-    "nuxt": "latest"
+    "nuxt": "latest",
+    "axios": "^0.15.2"
   },
   "scripts": {
     "dev": "nuxt",
